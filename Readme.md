@@ -7,3 +7,5 @@ Sahil Rajput
 Thanks.
 
 Initial source : <https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html>.
+
+From page: <https://reactjs.org/docs/getting-started.html>
